@@ -1,0 +1,1 @@
+<?php header ( ‘Location: /index.html’ ) ; ?>[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D['[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3~[3~['[C[C[C[C[C[C[C
